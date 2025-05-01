@@ -1,27 +1,4 @@
-# Innovating Approaches to Drug Price Prediction
-
-<<<<<<< HEAD
-=======
-## Adjusting .gitignore
-
-Ensure you adjust the `.gitignore` file according to your project needs. For example, since this is a template, the `/data/` folder is commented out and data will not be exlucded from source control:
-
-```plaintext
-# exclude data from source control by default
-# /data/
-```
-
-Typically, you want to exclude this folder if it contains either sensitive data that you do not want to add to version control or large files.
-
-## Duplicating the .env File
-To set up your environment variables, you need to duplicate the `.env.example` file and rename it to `.env`. You can do this manually or using the following terminal command:
-
-```bash
-cp .env.example .env # Linux, macOS, Git Bash, WSL
-copy .env.example .env # Windows Command Prompt
-```
-
-This command creates a copy of `.env.example` and names it `.env`, allowing you to configure your environment variables specific to your setup.
+# Predicting Pharmaceutical Price Fluctuations: The Impact of Patents and Regulatory Actions on Drug Pricing
 
 
 ## Project Organization
@@ -71,5 +48,4 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
         └── __init__.py 
 ```
 
---------
->>>>>>> 628c0d3a84b95272c0952a70bca756903a8bb534
+
