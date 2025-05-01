@@ -1,0 +1,29 @@
+name,title,type,format,description,
+product_group,Product Group,string,default,"The following methodology forms a Product Group: 
+
+Include all innovator (I) and non-innovator (N) pharmaceutically and therapeutically equivalent (A-rated) multiple source drugs when calculating the weighted average of monthly AMPs in a FUL Product Group; 
+
+Will not include single source (S) drugs when calculating the weighted average of monthly AMPs in a FUL Product Group; 
+
+Will not include formulations of the drug that are not rated by the FDA as pharmaceutically and therapeutically equivalent to the reference listed drug, (A-rated) in the calculation of the weighted average of monthly AMPs, or apply the FUL to those formulations that are not A-rated, e.g., B-rated drugs; 
+
+Will use the monthly AMP and AMP units reported and certified by manufacturers to calculate the weighted average of monthly AMPs in a FUL Product Group; and, 
+
+Will not include the AMP of a terminated drug in the weighted average of monthly AMPs.",
+ingredient,Ingredient,string,default,The order of ingredients presented in the product labeleling.,
+strength,Strength,string,default,The strengths presented in the product labeleling.,
+dosage,Dosage,string,default,The dosage form of the drug.,
+route,Route,string,default,The route of administration of the drug.,
+mdr_unit_type,MDR Unit Type,string,default,The unit type reported to the CMS Medicaid Drug Rebate Program.,
+weighted_average_amps,Weighted Average of AMPs,string,default,,The calculated weighted average of the monthly amps for the group.
+aca_ful,ACA FUL,string,default,The calculated Federal Upper Limit (FUL) for the group.,
+package_size,Package Size,string,default,Identifies the number of billing units in the package quantity from which the pharmacist dispenses.,
+ndc,NDC,string,default,"The National Drug Code (NDC) is a numerical code maintained by the FDA that includes the labeler code, product code, and package code.",
+arated,A-Rated,string,default,"Identifies if the drug is an A-rated drug, (Yes or No).",
+multiplier_greater_than_175_percent_of_weighted_avg_of_amps,Multiplier Greater Than 175 Percent of Weighted Avg of AMPs,string,default,,"ACA FUL equals the most current average retail community pharmacies' acquisition cost (NADAC) = Y 
+
+ACA FUL equals 175 percent of the weighted average of the most recently reported monthly AMPs = N 
+
+Note: All NDC-11s for a FUL Product Group are included in this file; however, only the (I) and (N), A-rated, multiple source drugs are used to calculate the weighted average of the most recently reported monthly AMPs in a FUL Product Group."
+year,Year,string,default,The year in which the FUL was calculated.,
+month,Month,string,default,The month in which the FUL was calculated.,
