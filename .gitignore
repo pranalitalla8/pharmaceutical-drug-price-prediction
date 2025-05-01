@@ -99,3 +99,5 @@ data/processed/model_drug_patent.csv
 data/processed/model_drug_amp.csv
 data/interim/drug_patent_dataset.csv
 data/interim/drug_amp_dataset.csv
+data/interim/amp_dataset.csv
+
