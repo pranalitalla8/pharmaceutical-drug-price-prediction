@@ -4,7 +4,6 @@
 ## Project Organization
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
 ├── README.md          <- The top-level README for developers using this project
 ├── data
 │   ├── external       <- Data from third party sources
@@ -14,9 +13,7 @@
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`
+├── notebooks          <- Jupyter notebooks. 
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
