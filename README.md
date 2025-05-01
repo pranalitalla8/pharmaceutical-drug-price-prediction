@@ -1,4 +1,4 @@
-## Predicting Pharmaceutical Price Fluctuations
+# Predicting Pharmaceutical Price Fluctuations
 ### The Impact of Patents and Regulatory Actions on Drug Pricing
 
 ## Project Organization
