@@ -1,5 +1,5 @@
-<h1 style="margin-bottom:0;">Predicting Pharmaceutical Price Fluctuations</h1>
-<h3 style="margin-top:0;">The Impact of Patents and Regulatory Actions on Drug Pricing</h3>
+<h1 style="margin: 0; padding: 0; font-size: 2em;">Predicting Pharmaceutical Price Fluctuations</h1>
+<h3 style="margin: 0; padding: 0;">The Impact of Patents and Regulatory Actions on Drug Pricing</h3>
 
 
 ## Project Organization
