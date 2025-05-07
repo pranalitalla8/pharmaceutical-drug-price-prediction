@@ -62,6 +62,17 @@ The regression models, particularly the **Random Forest Regression** and **Stack
 ![Model Output](reports/figures/output.png)
 
 
+## Limitations
+
+### 1. Patent Expiry Timing Ambiguity
+Although we used FDA Orange Book data, not all drugs have clearly defined or up-to-date patent expiration dates, making it difficult to fully model the patent-price relationship.
+
+### 2. Model Generalizability
+Our models are trained on Medicare Part D drug data, and the pricing behavior may differ in private insurance or retail pharmacy settings.
+
+### 3. No Real-Time Monitoring or Automation
+This project does not yet include a real-time pipeline to automatically update models with new regulatory events, limiting practical deployment in fast-changing scenarios.
+
 ## Future Work 
 
 1. **Regulatory Impact Analysis**  
@@ -75,14 +86,3 @@ The regression models, particularly the **Random Forest Regression** and **Stack
 
 4. **Advanced Clustering & Detection**  
    Implement time-series clustering for anomaly detection to identify unusual price shifts across drug groups, improving early detection of pricing trends.
-
-## Limitations
-
-### 1. Patent Expiry Timing Ambiguity
-Although we used FDA Orange Book data, not all drugs have clearly defined or up-to-date patent expiration dates, making it difficult to fully model the patent-price relationship.
-
-### 2. Model Generalizability
-Our models are trained on Medicare Part D drug data, and the pricing behavior may differ in private insurance or retail pharmacy settings.
-
-### 3. No Real-Time Monitoring or Automation
-This project does not yet include a real-time pipeline to automatically update models with new regulatory events, limiting practical deployment in fast-changing scenarios.
