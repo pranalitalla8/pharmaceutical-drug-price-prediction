@@ -19,7 +19,7 @@ The project leverages several key datasets to build a comprehensive model for pr
 - **FDA Orange Book Patent Data**: Contains information on drug patents, including expiration dates, helping us analyze the impact of patent expirations on drug pricing.
 - **Drug Recall and Regulatory Data**: Includes data on FDA recalls, safety alerts, and enforcement actions that may affect drug prices and market stability.
 
-## Problem Statement
+## Research Objectives
 
 1. **Clustering of Drugs Based on Characteristics and Pricing Behavior**  
    Develop a method to group drugs based on factors like dosage, strength, and package size, enabling the identification of distinct pricing patterns and behaviors.
@@ -59,7 +59,7 @@ The project leverages several key datasets to build a comprehensive model for pr
 
 The regression models, particularly the **Random Forest Regression** and **Stacking Regressor**, demonstrated strong predictive capabilities in forecasting drug price fluctuations. The models trained on **AMP and Patent Data** consistently outperformed those using only the **Drug and AMP Data**, with better performance metrics, including R-squared and Mean Absolute Error (MAE). The inclusion of patent expiration features allowed the models to capture the nuanced impact of regulatory changes and market dynamics, leading to more accurate predictions. The **Stacking Regressor** model showed the best generalization performance, leveraging multiple base models to provide a robust prediction of drug price trends.
 
-![Output Image](reports/output.png)
+![Model Output](reports/figures/output.png)
 
 
 ## Future Work 
