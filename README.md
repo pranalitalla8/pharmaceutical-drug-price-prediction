@@ -86,3 +86,35 @@ This project does not yet include a real-time pipeline to automatically update m
 
 4. **Advanced Clustering & Detection**  
    Implement time-series clustering for anomaly detection to identify unusual price shifts across drug groups, improving early detection of pricing trends.
+
+
+## Acknowledgments 
+
+- Thanks to our team members for their collaborative effort and contributions throughout the project.
+- Special thanks to Professor Masoud Soroush for his valuable feedback and support.
+
+## References
+
+### Data Sources
+
+  - [Medicare Part D Drug Spending](https://data.cms.gov/)
+  - [FDA Orange Book Patent Data](https://www.accessdata.fda.gov/scripts/cder/ob/)
+  - [Medicare ACA Federal Upper Limits](https://data.medicaid.gov/)
+
+
+###  Tools & Libraries
+
+- Jupyter Notebook for data exploration and modeling
+- GitHub for collaboration and version control
+
+### Research Papers
+
+1. Bashaer, A., & Belal, A. (2023). Predicting medicine demand using deep learning techniques: A review. *Journal of Intelligent Systems*, [https://doi.org/10.1515/jisys-2022-0297](https://doi.org/10.1515/jisys-2022-0297).
+
+2. Tomovic, A., & Atukeren, E. (2012). Long-term value creation in the pharmaceutical sector: an event study analysis of big pharma stocks. *International Journal of Sustainable Economics*, 4, 370–389. DOI: [10.1504/IJSE.2012.049609](https://www.researchgate.net/publication/264437189_Long-term_value_creation_in_the_pharmaceutical_sector_an_event_study_analysis_of_big_pharma_stocks).
+
+3. Semen, B., Alexey, K., Elizaveta, K., & Leonid, Z. (2023). New drugs and stock market: a machine learning framework for predicting pharma market reaction to clinical trial announcements. *Scientific Reports*, 13(1), 12817. DOI: [10.1038/s41598-023-39301-4](https://doi.org/10.1038/s41598-023-39301-4).
+
+4. [Annual Reviews - Public Health](https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-040119-094305).
+
+
