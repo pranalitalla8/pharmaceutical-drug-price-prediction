@@ -55,6 +55,12 @@ The project leverages several key datasets to build a comprehensive model for pr
 
 ```
 
+## Results and evaluation
+
+The regression models, particularly the **Random Forest Regression** and **Stacking Regressor**, demonstrated strong predictive capabilities in forecasting drug price fluctuations. The models trained on **AMP and Patent Data** consistently outperformed those using only the **Drug and AMP Data**, with better performance metrics, including R-squared and Mean Absolute Error (MAE). The inclusion of patent expiration features allowed the models to capture the nuanced impact of regulatory changes and market dynamics, leading to more accurate predictions. The **Stacking Regressor** model showed the best generalization performance, leveraging multiple base models to provide a robust prediction of drug price trends.
+
+![Output Image](reports/output.png)
+
 
 ## Future Work 
 
