@@ -5,7 +5,7 @@ Pharmaceutical pricing is a critical and complex issue shaped by several factors
 
 This project aims to develop a predictive model capable of forecasting pharmaceutical price fluctuations, focusing on patent expirations, regulatory actions (such as FDA recalls), and usage patterns. By leveraging data from various sources, the model provides actionable insights that can help healthcare providers, insurance companies, and policymakers better manage costs and ensure that medications remain affordable and accessible.
 
-## Background
+## Background 
 
 Pharmaceutical prices are often subject to significant fluctuations due to factors like patent expirations, regulatory actions, and market competition. These price shifts create uncertainty for stakeholders involved in drug procurement, insurance planning, and budgeting.
 
@@ -73,7 +73,7 @@ Our models are trained on Medicare Part D drug data, and the pricing behavior ma
 ### 3. No Real-Time Monitoring or Automation
 This project does not yet include a real-time pipeline to automatically update models with new regulatory events, limiting practical deployment in fast-changing scenarios.
 
-## Future Work 
+## Future Work
 
 1. **Regulatory Impact Analysis**  
    Further enhance the model by incorporating severity scoring of regulatory actions, using FDA classification levels to better quantify their impact on pricing.
