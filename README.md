@@ -102,7 +102,8 @@ The regression models, particularly the **Random Forest Regression** and **Stack
 ├── models             <- trained models, predictions or model summaries
 │
 ├── notebooks          <- Jupyter notebooks
-│
+│   └── future_work    <- in progress
+|
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
 ├── reports            <- Generated analysis as HTML, PDF etc.
