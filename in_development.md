@@ -21,10 +21,12 @@
 
 1. [https://www.healthsystemtracker.org/](https://www.healthsystemtracker.org/)
 2. 
+3. 
 
-### GitHub Pages
+### Blogs
 
 1. [https://github.com/josericodata/SupplyChainDataModelling](https://github.com/josericodata/SupplyChainDataModelling)
+2. https://discuss.streamlit.io/t/langchain-tutorial-4-build-an-ask-the-doc-app/45688
 
 ### Next tasks
 
