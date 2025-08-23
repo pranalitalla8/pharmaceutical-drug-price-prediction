@@ -15,4 +15,18 @@ https://www.linkedin.com/in/brianbreid/
 
 <h3>Organizations</h3>
 1. KFF
-2. 
+2. Rx
+
+Articles
+1. https://www.healthsystemtracker.org/
+2.
+
+
+Next tasks
+1. Build a streamlit dashboard 
+   - Who are your end users? People, hospitals, insurers?
+   - manufacturing spend, negotiation, reimbursement, drug cluster, recall count (if any) 
+   - checkout vegetation price, crop price streamlit work on github
+
+2. AI model for each end user seperately or we can decide this as we go on
+3. drug events, drug recalls and policy changes impact to forecast drug prices
