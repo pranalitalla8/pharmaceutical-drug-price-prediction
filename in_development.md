@@ -6,9 +6,7 @@
    Senior Managing Director, Center for Healthcare Economics & Policy at FTI Consulting; Adjunct Professor, University of Southern California  
    [LinkedIn](https://www.linkedin.com/in/jason-shafrin-9310194/)
 
-2. **Brian Reid**  
-   Pharma Pricing and Public Affairs  
-   [LinkedIn](https://www.linkedin.com/in/brianbreid/)
+2.
 
 3. 
 
