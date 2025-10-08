@@ -93,11 +93,5 @@ target/
 # /models/
 
 # exclude data from source control by default
-# /data/
-# Ignore large processed and interim files
-data/processed/model_drug_patent.csv
-data/processed/model_drug_amp.csv
-data/interim/drug_patent_dataset.csv
-data/interim/drug_amp_dataset.csv
-data/interim/amp_dataset.csv
+/data/
 
